@@ -1,0 +1,48 @@
+[
+  {
+    "title": "AI/ML Intern",
+    "company": "Bhavi Technologies Pvt. Ltd.",
+    "location": "India",
+    "date": "May 2023 \u2014 Apr 2024",
+    "bullets": [
+      "Developed and evaluated supervised ML models on real-world datasets to support data-driven business decisions.",
+      "Designed an enhanced Limited Random Forest model, improving predictive accuracy by ~10% and reducing execution time by ~25% via optimized feature selection and constrained tree depth.",
+      "Performed EDA to identify patterns, anomalies, and key drivers influencing model performance.",
+      "Evaluated models using standard metrics (Accuracy, F1-score) and validated improvements through iterative experimentation.",
+      "Translated analytical findings into actionable insights for stakeholders, supporting model adoption."
+    ]
+  },
+  {
+    "title": "Project Intern",
+    "company": "Computer Centre, MSU Baroda",
+    "location": "India",
+    "date": "Jun 2022 \u2014 Aug 2022",
+    "bullets": [
+      "Assisted in developing web-based applications using ASP.NET and MySQL, focusing on backend logic and database management.",
+      "Designed and executed SQL queries to support application workflows and ensure data integrity.",
+      "Collaborated with team members to implement and test backend features aligned with project requirements."
+    ]
+  },
+  {
+    "title": "Applied ML Research Contributor",
+    "company": "Academic",
+    "location": "",
+    "date": "2024 \u2014 Present",
+    "bullets": [
+      "Conducted empirical evaluation of ensemble learning techniques, leading to an optimized Limited Random Forest model.",
+      "Co-authored a research paper analyzing model efficiency vs accuracy trade-offs (under peer review).",
+      "Performed literature review and comparative analysis of ML and cryptographic techniques for secure systems."
+    ]
+  },
+  {
+    "title": "Volunteer Operations Assistant",
+    "company": "Lspring, Wilfrid Laurier University",
+    "location": "Ontario, Canada",
+    "date": "Sept 2025 \u2014 Present",
+    "bullets": [
+      "Managed distribution records and inventory data for essential grocery, health, and hygiene items.",
+      "Ensured accurate tracking and reporting to support efficient distribution for students and community members in need.",
+      "Collaborated with team members to streamline operational workflows and improve data consistency."
+    ]
+  }
+]

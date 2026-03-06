@@ -1,0 +1,29 @@
+{
+  "name": "Darshil Shah",
+  "role": "Data Scientist",
+  "headline": "Data Scientist building end\u2011to\u2011end ML pipelines and analytics that drive decisions.",
+  "summary": "Applied Computing graduate student with strong foundations in statistical modeling, machine learning, and analytics-driven decision support. Experienced in Python/SQL pipelines, optimizing model performance, and translating insights into stakeholder-ready recommendations.",
+  "location": "Ontario, Canada",
+  "timezone": "EST (UTC\u22125)",
+  "resumeUrl": "/resume.pdf",
+  "socials": {
+    "github": "https://github.com/shahdarshil1104",
+    "linkedin": "https://linkedin.com/in/ds-darshil-shah",
+    "email": "mailto:shahdarshil1104@gmail.com",
+    "phone": "tel:+15195739163"
+  },
+  "stats": [
+    {
+      "label": "Model uplift",
+      "value": "+10% accuracy"
+    },
+    {
+      "label": "Speedup",
+      "value": "\u221225% runtime"
+    },
+    {
+      "label": "Focus",
+      "value": "ML + Analytics"
+    }
+  ]
+}

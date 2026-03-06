@@ -1,0 +1,96 @@
+[
+  {
+    "slug": "limited-random-forest-optimization",
+    "title": "Limited Random Forest Optimization",
+    "tagline": "Accuracy + runtime improvements via feature selection and constrained depth",
+    "category": "ML",
+    "stack": [
+      "Python",
+      "scikit-learn",
+      "Pandas",
+      "NumPy"
+    ],
+    "metrics": [
+      "~10% predictive accuracy improvement",
+      "~25% faster execution time",
+      "Iterative evaluation (Accuracy, F1-score)"
+    ],
+    "links": {
+      "repo": "https://github.com/shahdarshil1104",
+      "demo": ""
+    },
+    "images": [],
+    "problem": "Baseline models lacked the right trade-off between predictive accuracy and execution time for production use-cases.",
+    "approach": [
+      "Performed EDA and feature analysis to identify key drivers.",
+      "Implemented constrained tree depth and optimized feature selection to reduce overfitting and speed up inference.",
+      "Validated improvements with standard evaluation metrics and repeated experiments."
+    ],
+    "outcome": [
+      "Delivered a stronger accuracy/runtime trade-off suitable for business usage.",
+      "Produced stakeholder-ready findings to support adoption."
+    ]
+  },
+  {
+    "slug": "supervised-ml-modeling-suite",
+    "title": "Supervised ML Modeling Suite",
+    "tagline": "End-to-end pipeline: EDA \u2192 features \u2192 training \u2192 evaluation",
+    "category": "Data Science",
+    "stack": [
+      "Python",
+      "SQL",
+      "scikit-learn",
+      "SciPy"
+    ],
+    "metrics": [
+      "Reusable pipeline template",
+      "Consistent metric reporting",
+      "Experiment iteration via notebooks"
+    ],
+    "links": {
+      "repo": "https://github.com/shahdarshil1104",
+      "demo": ""
+    },
+    "images": [],
+    "problem": "Teams needed a repeatable approach for building, evaluating, and communicating supervised learning models.",
+    "approach": [
+      "Created a standardized workflow for data cleaning, feature engineering, and model evaluation.",
+      "Automated metric generation (Accuracy, F1-score) and comparison across models.",
+      "Documented insights and recommendations for non-technical stakeholders."
+    ],
+    "outcome": [
+      "Improved clarity and speed of iteration during model development.",
+      "Made results easier to communicate and act on."
+    ]
+  },
+  {
+    "slug": "inventory-distribution-tracking",
+    "title": "Inventory & Distribution Tracking",
+    "tagline": "Operational data tracking for community distribution",
+    "category": "Analytics",
+    "stack": [
+      "Excel",
+      "Reporting",
+      "Data Quality"
+    ],
+    "metrics": [
+      "Accurate inventory reporting",
+      "Improved data consistency",
+      "Operational workflow support"
+    ],
+    "links": {
+      "repo": "",
+      "demo": ""
+    },
+    "images": [],
+    "problem": "Operational teams needed reliable records to support distribution efficiency and accountability.",
+    "approach": [
+      "Managed distribution records and inventory logs with consistent formatting and validation checks.",
+      "Built lightweight reporting to support day-to-day operations and stock visibility."
+    ],
+    "outcome": [
+      "More accurate tracking and smoother distribution workflows.",
+      "Better decision support for replenishment and planning."
+    ]
+  }
+]

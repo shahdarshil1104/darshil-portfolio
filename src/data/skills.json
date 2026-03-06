@@ -1,0 +1,86 @@
+{
+  "groups": [
+    {
+      "name": "Programming",
+      "items": [
+        "Python",
+        "SQL",
+        "Java",
+        "JavaScript",
+        "C/C++"
+      ]
+    },
+    {
+      "name": "Data Science",
+      "items": [
+        "Pandas",
+        "NumPy",
+        "Scikit-learn",
+        "SciPy",
+        "EDA",
+        "Feature Engineering",
+        "Model Evaluation"
+      ]
+    },
+    {
+      "name": "Machine Learning",
+      "items": [
+        "Supervised Learning",
+        "Unsupervised Learning",
+        "Random Forest",
+        "SVM",
+        "Clustering",
+        "Neural Networks"
+      ]
+    },
+    {
+      "name": "Analytics",
+      "items": [
+        "Statistical Modeling",
+        "Hypothesis Testing",
+        "Accuracy / F1-score",
+        "Business Insights"
+      ]
+    },
+    {
+      "name": "Visualization",
+      "items": [
+        "Matplotlib",
+        "Seaborn",
+        "Plotly",
+        "Streamlit",
+        "Excel"
+      ]
+    },
+    {
+      "name": "Databases",
+      "items": [
+        "MySQL",
+        "MongoDB",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "name": "Cloud & Big Data",
+      "items": [
+        "AWS (EC2, S3)",
+        "Spark (basic)",
+        "Hadoop (basic)"
+      ]
+    },
+    {
+      "name": "Tools",
+      "items": [
+        "Git/GitHub",
+        "Jupyter Notebook",
+        "VS Code",
+        "LaTeX"
+      ]
+    }
+  ],
+  "learning": [
+    "Deep Learning",
+    "MLOps",
+    "Advanced Spark"
+  ]
+}
