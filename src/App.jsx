@@ -151,7 +151,7 @@ export default function App() {
           </button> */}
         </div>
 
-        {menuOpen && (
+        {/* {menuOpen && (
           <div className="border-t border-white/10 bg-slate-900 px-6 py-4 md:hidden">
             <div className="flex flex-col gap-4">
               {navItems.map((item) => (
@@ -175,7 +175,7 @@ export default function App() {
               </a>
             </div>
           </div>
-        )}
+        )} */}
       </nav>
 
       {/* Hero */}
