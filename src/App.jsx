@@ -133,25 +133,25 @@ export default function App() {
               </a>
             ))}
 
-            <a
-              href="/resume.pdf"
+            {/* <a
+              href={`${import.meta.env.BASE_URL}resume.pdf`}
               target="_blank"
               rel="noreferrer"
               className="rounded-xl border border-cyan-400/40 px-5 py-2.5 text-sm font-semibold text-cyan-300 transition hover:bg-cyan-400 hover:text-slate-950"
             >
               View Resume
-            </a>
+            </a> */}
           </div>
 
-          <button
+          {/* <button
             className="rounded-lg border border-white/10 px-3 py-2 text-sm md:hidden"
             onClick={() => setMenuOpen(!menuOpen)}
           >
             Menu
-          </button>
+          </button> */}
         </div>
 
-        {/* {menuOpen && (
+        {menuOpen && (
           <div className="border-t border-white/10 bg-slate-900 px-6 py-4 md:hidden">
             <div className="flex flex-col gap-4">
               {navItems.map((item) => (
@@ -175,7 +175,7 @@ export default function App() {
               </a>
             </div>
           </div>
-        )} */}
+        )}
       </nav>
 
       {/* Hero */}
@@ -227,7 +227,7 @@ export default function App() {
             </div>
 
             <div className="mt-8 flex flex-wrap gap-3">
-              <span className={tagClass}>Ontario, Canada</span>
+              <span className={tagClass}>Brantford, Canada</span>
               <span className={tagClass}>Python</span>
               <span className={tagClass}>SQL</span>
               <span className={tagClass}>Azure</span>
